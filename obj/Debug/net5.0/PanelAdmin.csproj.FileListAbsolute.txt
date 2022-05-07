@@ -1,0 +1,16 @@
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.exe
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.deps.json
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.dll
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\ref\PanelAdmin.dll
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\bin\Debug\net5.0\PanelAdmin.pdb
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.dll
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\ref\PanelAdmin.dll
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.pdb
+C:\Users\lenovo\OneDrive\Desktop\PanelAdmin\obj\Debug\net5.0\PanelAdmin.genruntimeconfig.cache
